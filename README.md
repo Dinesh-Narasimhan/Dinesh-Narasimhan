@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 <h1 align="center">Hi 👋, I'm Dinesh Narasimhan</h1>
 <h3 align="center">Welcome to my GitHub profile! I’m a passionate Data Scientist with experience in building end-to-end data-driven solutions. From data wrangling to deploying ML models, I enjoy every step of the process that transforms raw data into valuable insights.</h3>
